@@ -1,0 +1,70 @@
+.logo {
+  padding: 0;
+}
+.carousel {
+  margin-top: 50px;
+}
+.carousel .carousel-inner > .item > img {
+  margin: auto;
+}
+.bann1 {
+  background-color: #223240;
+}
+.bann2 {
+  background-color: #f4e4db;
+}
+.bann3 {
+  background-color: #dd292c;
+}
+.tab1 {
+  margin-top: 20px;
+}
+.tab1 .tab1-col {
+  padding: 20px;
+}
+.media-body p {
+  margin: 0 0 5px;
+}
+.text-p {
+  text-decoration: line-through;
+  color: #999;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .text-p {
+    font-size: 17px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .text-p {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .text-p {
+    font-size: 10px;
+  }
+}
+.tab2 {
+  background: #eee;
+  padding: 60px 0;
+}
+.tab2 img {
+  width: 38%;
+}
+.tab3 {
+  padding: 60px 0;
+}
+.tab3 img {
+  width: 30%;
+}
+footer {
+  background: #666;
+  padding: 5px;
+}
+footer .p-nav {
+  margin-top: 10px;
+}
+footer .p-nav a {
+  padding: 5px;
+  color: #999;
+}
